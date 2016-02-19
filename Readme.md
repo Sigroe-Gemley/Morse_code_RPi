@@ -1,4 +1,5 @@
 C morse code header file for use with the Raspberry Pi GPIO Pins.
+For a complete tutorial which also includes circuit schematics and the like, have a look at my instructable: http://www.instructables.com/id/Morse-Code-Using-Raspberry-Pi-and-LED 
 
 Features:
 - Blink numbers
